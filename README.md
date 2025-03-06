@@ -30,7 +30,6 @@ WebStorm 💡 - The IDE of choice because sometimes, VS Code just doesn’t cut 
 🔜 Future: Maybe add water droplets? A bite animation? Who knows!
 
 🥒 Fun Fact
-
 Did you know that hydroponic cucumbers use 50% less water than traditional soil-grown cucumbers? Now you do! 🎓
 
 🤝 Contributions
